@@ -1,4 +1,5 @@
-[<img alt="👋" src="https://github.com/RaitheOfDureya/RaitheOfDureya/blob/main/github-metrics.svg">](https://github.com/RaitheOfDureya/)
+[<p align="center"><img alt="👋" src="https://github.com/RaitheOfDureya/RaitheOfDureya/blob/main/github-metrics.svg"></p>](https://github.com/RaitheOfDureya/)
+ 
 <!--
 ### Hi there 👋
 
