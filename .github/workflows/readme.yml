@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics for full reference
 name: GitHub metrics as SVG image
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}] # Once per day at midnight
   push: {branches: "master"}
 jobs:
   github-metrics:
